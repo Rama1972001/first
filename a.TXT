@@ -1,2 +1,6 @@
 first change!
+<<<<<<< HEAD
 everything gets easier 
+=======
+ffffffffffffffffffffffff
+>>>>>>> updateLeft
